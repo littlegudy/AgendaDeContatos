@@ -23,7 +23,7 @@ AgendaDeContatos is a simple academic project developed as part of our studies o
 ### Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AgendaDeContatos.git
+   git clone https://github.com/littlegudy/AgendaDeContatos.git
    ```
 2. Open the project in Visual Studio or your preferred C# IDE.
 3. Build and run the project.
